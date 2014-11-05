@@ -1,4 +1,4 @@
-gauntlet
+PATTERN ENGINE
 ========
 
-THE GAUNTLET HAS BEEN THROWN
+Decorate functions with custom patterns and feed data into the engine. When a pattern is matched the corresponding wrapped function will fire.
